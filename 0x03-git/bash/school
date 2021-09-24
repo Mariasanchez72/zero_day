@@ -36,4 +36,4 @@ root@55146fe53afa:/zero_day/0x03-git# cd bash
 root@55146fe53afa:/zero_day/0x03-git/bash# vi best
 root@55146fe53afa:/zero_day/0x03-git/bash# vi school
 #!/bin/bash
-echo "School"
+echo "The schoolis open!"
